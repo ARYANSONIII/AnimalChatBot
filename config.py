@@ -11,7 +11,7 @@ API_HASH = "33abbe2e6c767868409d18a099fae999"
 BOT_TOKEN = getenv("BOT_TOKEN", None)
 MONGO_URL = getenv("MONGO_URL", None)
 OWNER_ID = "7710642242"
-SUPPORT_GRP = "+GrjYohz0MuljMjdl"
+SUPPORT_GRP = "+zZIR8Jn1uTc3ZmUy"
 UPDATE_CHNL = "tabahi_tabahi"
 OWNER_USERNAME = "smartness_to_hai"
 
