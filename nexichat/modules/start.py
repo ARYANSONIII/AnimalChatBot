@@ -1,5 +1,3 @@
-
-
 import asyncio
 import random
 
@@ -29,7 +27,7 @@ from nexichat.modules.helpers import (
 
 # Random Start Images
 IMG = [
-    "https://files.catbox.moe/59c8ho.jpg",
+    "https://telegra.ph/SMDBOTZ-10-27-3",
 ]
 
 
